@@ -11588,7 +11588,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R6_5.1k"
+		(property "Value" "5.1k"
 			(at 355.6 226.06 0)
 			(effects
 				(font
@@ -17343,7 +17343,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R7_5.1k"
+		(property "Value" "5.1k"
 			(at 370.84 226.06 0)
 			(effects
 				(font
